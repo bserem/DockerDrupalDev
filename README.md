@@ -1,3 +1,5 @@
+Deprecated: use drud/ddev
+
 # DockerDrupalDev
 DDD or DockerDrupalDev is a bash script to facilitate working with Docker and
 Drupal for local development.
